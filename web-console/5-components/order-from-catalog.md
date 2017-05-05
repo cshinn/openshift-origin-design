@@ -84,8 +84,10 @@ Post 3.6, an additional Bind Step will be implemented.
 #### Catalog item has multiple versions and version was not included on the plan step
 ![template](img/config-step.png)
 
+
 #### Catalog item has single versions OR version was included on the plan step
 ![template](img/config-step-no-version.png)
+
 
 #### Catalog item shows advanced options
 ![template](img/config-step-hide-advanced.png)
