@@ -6,7 +6,7 @@
 
 ## Browse Catalog
 
-![catalog](img/OpenShift-Next-Homepage-AllCat-Getting-Started.png)
+![catalog](https://redhat.invisionapp.com/static-signed/live-embed/14678702/277164988/4/latest/XKvjlEI0WsUmJk02uljzy2MvmlA5HaCXJlEXjGzBaawXV8zU6b2bXA0ZR2iCFRnO4QmvSRXclEvpAZrWeiMTLOFJglE/membership-1-2x.png)
 - Initially, upon arriving on the page, the `All` section is highlighted, underlined and expanded, with the catalog items sorted alphabetically by name.
 - Deploy Image and Import YAML/JSON links are available on the right side of the catalog primary categories bar.
 - Clicking either link will trigger the relevant [overlay panel actions](http://openshift.github.io/openshift-origin-design/web-console/4-patterns/overlay-panel).
